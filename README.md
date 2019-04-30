@@ -1,2 +1,3 @@
 # PaperPlan-CV-
-reading some computer vision papers
+# this repository attention on computer vision areas
+# i hope you can find your favour thesis!enjoy it!
